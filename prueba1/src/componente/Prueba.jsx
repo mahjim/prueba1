@@ -3,6 +3,7 @@ export function Prueba(){
     return (
         <>
         <h1>Hola soy Manuel</h1>
+        <button>Ok</button>
         </>
 
     )
